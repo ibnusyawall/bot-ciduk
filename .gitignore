@@ -1,0 +1,8 @@
+# modules directory
+node_modules/
+
+# lock files
+*-lock.json
+
+# session files
+auth_info.json

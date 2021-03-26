@@ -1,0 +1,26 @@
+{
+  "name": "bot-ciduk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnusyawall/bot-ciduk.git"
+  },
+  "keywords": [],
+  "author": "ibnusyawall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnusyawall/bot-ciduk/issues"
+  },
+  "homepage": "https://github.com/ibnusyawall/bot-ciduk#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.0",
+    "moment-timezone": "^0.5.33",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
